@@ -1,5 +1,6 @@
 # Reference https://github.com/github/gitignore/blob/master/Go.gitignore
 # Binaries for programs and plugins
+bin
 *.exe
 *.exe~
 *.dll
